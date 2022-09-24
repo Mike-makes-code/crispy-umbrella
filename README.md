@@ -1,3 +1,1 @@
-Hello world!
-Edit
-I typed some stuff right here.
+The Python script runs "Hello World!" and nothing else.
